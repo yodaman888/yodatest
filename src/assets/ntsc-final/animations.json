@@ -12062,7 +12062,7 @@
     {
         "id": "ANIM_GUN_SHOTGUN_RELOAD",
         "file": "03ed.bin",
-        "numframes": 130,
+        "numframes": 100,
         "bytesperframe": 53,
         "unk08": 435,
         "unk0a": 12,
